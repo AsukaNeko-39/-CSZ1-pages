@@ -2,6 +2,12 @@
 
 [从欢迎页进入网站](https://asukaneko-39.github.io/-CSZ1-pages/#cover)
 
+## 修改记录
+
+[查看或下载完整修改记录（PDF，27 页，约 45 MB）](https://asukaneko-39.github.io/-CSZ1-pages/docs/modification-record.pdf)
+
+包含各轮修改说明、页面截图、全站核对和 GitHub 发布记录。对应本地文件“湖湘农耕文化网页-修改记录-更新版-20260908.pdf”，按用户要求公开上传，文件内容保持一致。
+
 这个仓库用于 GitHub Pages 发布，包含完成版网页和配图素材。
 网站包含地图浏览、发展脉络、土地制度、民俗文化、重要文物五个专题，以及节气和主题线路。
 
