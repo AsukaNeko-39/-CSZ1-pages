@@ -1,10 +1,12 @@
 # 湖湘农耕文化地图
 
+网站版本：**CSZ1版**。
+
 [从欢迎页进入网站](https://asukaneko-39.github.io/-CSZ1-pages/#cover)
 
 ## 修改记录
 
-[查看或下载完整修改记录（PDF，29 页，约 50 MB）](https://asukaneko-39.github.io/-CSZ1-pages/docs/modification-record.pdf)
+[查看或下载 CSZ1版完整修改记录（PDF，29 页，约 50 MB）](https://asukaneko-39.github.io/-CSZ1-pages/docs/modification-record.pdf)
 
 包含各轮修改说明、页面截图、全站核对和 GitHub 发布记录。对应本地文件“湖湘农耕文化网页-修改记录-更新版-20260908.pdf”，按用户要求公开上传，文件内容保持一致。
 
