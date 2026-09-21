@@ -1,10 +1,13 @@
 {
   "version": "csz2",
   "name": "CSZ2版",
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "sourceRepository": "AsukaNeko-39/-CSZ1",
-  "sourceRef": "csz2",
-  "sourceCommit": "84afc9d29d070d7310dd18f7776c5010ef3de6f1",
+  "sourceRef": "main",
+  "baselineTag": "csz2",
+  "revision": "landscape-cover-20260922",
+  "sourceCommit": "68563c8e5e299d3a3f00156ba57f0c4288c69dbe",
   "recordPages": 36,
+  "latestNotes": "docs/releases/csz2-cover-20260922.md",
   "recordSha256": "14e0c253fbc1d7e52ead831fe28ef2e5450e84e8ad58ec934c82a4e1df208a6b"
 }
